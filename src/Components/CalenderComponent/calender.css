@@ -1,0 +1,11 @@
+.DateInput_input {
+  cursor: pointer;
+}
+
+.calender-list-container {
+  margin-bottom: 86px;
+}
+
+span {
+  display: inline-block;
+}

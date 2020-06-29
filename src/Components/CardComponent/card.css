@@ -1,0 +1,20 @@
+.card-container {
+  width: 200px;
+}
+
+.card-list-container {
+  width: 200px;
+  height: 100px;
+  border: 1px solid #1c1e1f;
+  background-color: darkgreen;
+  list-style-type: none;
+  color: white;
+  border-radius: 10px;
+  margin: 65px 0px 10px 200px;
+}
+
+.list-align {
+  text-align: center;
+  margin: 10px;
+  font-size: 19px;
+}
